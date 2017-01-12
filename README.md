@@ -1,1 +1,1 @@
-I developed the R function find_cluster to identify potential carnivore kill sites from spatio-temporal patterns in their GPS location data. The program was used by field crew to conduct searches on the ground. 
+I developed the R function find_cluster to identify potential carnivore kill sites from spatio-temporal patterns in their GPS location data. The program was used by field crew to conduct searches on the ground. The publication associated with the code is included (Svoboda et al 2013. Wildlife Biology.pdf); see Acknowledgements for my contribution to the project.
