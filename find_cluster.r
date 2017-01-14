@@ -6,7 +6,7 @@ library(RgoogleMaps)
 # Choose a working directory and Read data set 
 directory =  "D:/Alban/JOBS/z12 - Plouzane/code/Nathan/bobcat_1.txt" # modify to indicate your own path to data
 bobcat_1 = read.table(directory, header = T, sep = "\t", dec = ".") 
-setwd(directory) # this is where output files will be written, modify to your own folder
+setwd(directory) # this is where output files will be written
 
 #------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
